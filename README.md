@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **HTML, CSS, JS, Java, Type Script, PHP, Python**
 
-- 👨‍💻 Todos os meu projetos estão disponíveis em [gustavoevieira@gmail.com.br](gustavoevieira@gmail.com.br)
+- 👨‍💻 Todos os meu projetos estão disponíveis em [gustavoevieira.com.br](gustavoevieira.com.br)
 
 - 📫 Como me encontrar **gustta.eudes@gmail.com**
 
