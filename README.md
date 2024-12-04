@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gustavo, mas pode me chamar de Mika!
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
-- 🌱 &nbsp;Estou no início da minha carreira em desenvolvimento, ainda em fase de estudos.
+- 🌱 &nbsp;Estou no início da minha carreira em desenvolvimento.
 - 💼 &nbsp;Atualmente trabalho como freelancer em desenvolvimento web e estou buscando oportunidades para me tornar um desenvolvedor em tempo integral.
 - 🤖 &nbsp;Interessado em Inteligência Artificial, Machine Learning e Desenvolvimento de Jogos.
 
