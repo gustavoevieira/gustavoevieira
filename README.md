@@ -22,7 +22,7 @@
 </a>
 
 ### 🌐 &nbsp;Projetos
-- 📁 &nbsp;Você pode ver meus projetos no meu [portifólio](https://gustavoevieira.com.br).
+- 📁 &nbsp;Você pode ver meus projetos no meu [portifólio](https://gustavoevieira.github.io/portfolio/).
 
 ### 🤝 &nbsp;Vamos nos conectar?
 <p align="center">
